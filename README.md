@@ -2,4 +2,4 @@
 a rust CLI tool 
 
 ## to compile
-execute `cargo run`
+execute `cargo run -- some-pattern some-file`
